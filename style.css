@@ -70,6 +70,10 @@ body img{
     padding: 5px;
 } 
 
+#botao-inicio:hover{
+    color: #f6f6f6;
+}
+
 .header-produtos, .header-carrinho{
     display: flex;
     flex-direction: column;
